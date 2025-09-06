@@ -6,7 +6,7 @@
 - Diskspace  : 512 Gigabyte <br>
 
 ## Setup Proxmox
-- I forgot to Dokument this lol<br>
+- Prepare a bootable USB-Stick with Proxmox in Rufus
 - You can Connect via your browser just type: The IPadress:8006/ <br>
 -8006 is a certain port <br>
 
