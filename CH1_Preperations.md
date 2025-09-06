@@ -11,7 +11,8 @@
 -8006 is a certain port <br>
 
 ## Get ISO        | What I chose
-- I chose Debian 13 codenamed trixie, netinst, for 64-bit PC (amd64) debian-13.0.0-amd64-netinst.iso.<br>
+- I chose Debian 12  netinst, for 64-bit PC (amd64) debian-13.0.0-amd64-netinst.iso.<br>
+- I also chose ubuntu -22.04 because not like debian it actually works for Pihole <br>
 - This Iso will be the Backbone of nearly all VM or Containers.<br>
 ### Warning Debian isnt always chooseable, you need to downlad it in Proxmox CT-Templates --> Templates and choose it there <br>
 ## What I am installing and why
